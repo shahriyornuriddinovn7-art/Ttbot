@@ -1,0 +1,6 @@
+python-telegram-bot[webhooks]>=21.0,<23
+yt-dlp
+shazamio
+static-ffmpeg
+aiohttp
+Pillow
